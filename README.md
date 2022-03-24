@@ -18,7 +18,7 @@ $ termux-setup-storage
 - pkg install git
 - pip install requests
 - pip install bs4
-- git clone https://github.com/Dapunta/dmbf
+- git clone https://github.com/MR-Xyaa/dmbf
  
 # ⇨ Menjalankan Script
 - cd dmbf
