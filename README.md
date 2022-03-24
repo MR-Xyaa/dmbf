@@ -23,7 +23,7 @@ $ termux-setup-storage
 # ⇨ Menjalankan Script
 - cd dmbf
 - git pull
-- python dmbf.py
+- python script.py
 # ⇨ Informasi
 [!] Bedanya Metode Crack Apaan Ngab? Nih :
 ✯ ---> API = Pake Metode Lama, Cracknya Cepet Tapi Gampang Kena Spam, Sebab Udah Diupdate Sama Pihak Facebook, Not Recommended
