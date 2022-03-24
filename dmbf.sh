@@ -5,4 +5,4 @@ clear
 
 python2 please.py
 
-python dmbf.py
+sh install.sh
