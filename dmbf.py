@@ -5,7 +5,7 @@
 #Author: MR-Xyaa
 
 ### Import Module
-import requests,sys,os,random,time,json
+import requests,sys,bs4,os,random,time,json
 from concurrent.futures import ThreadPoolExecutor as ThreadPool
 from datetime import datetime
 
